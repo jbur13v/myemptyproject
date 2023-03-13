@@ -4,7 +4,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 from aiogram import Bot, Dispatcher, executor, types
 from var import *
 
-token = '6068303679:AAFEE3mEVJ-huR00PfUDkeIQRtxT4m-F2YQ'
+token = ''
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=token)
 dp = Dispatcher(bot)
